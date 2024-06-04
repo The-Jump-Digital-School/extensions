@@ -72,7 +72,7 @@
     "required-utility-type",
     "nonnullable-utility-type"
   ],
-  "window.zoomLevel": 4,
+  "window.zoomLevel": 1,
   "terminal.integrated.env.osx": {},
   "typescript.updateImportsOnFileMove.enabled": "always",
   "editor.minimap.renderCharacters": false
