@@ -5,7 +5,7 @@
 To install the recommended settings listed in `extensions.json`:
 1. Download this code by pressing the down arrow on the green 'code' button above and selecting 'download zip'.
 2. Once downloaded, double-click on the zip/archive to extract it (It will the be a normal folder full of code)
-3. Open this folder in VSCode. Either a popup will open (and you just click `install`)
+3. Open this folder in VSCode. Either a popup will open (and you just click `install` in the extensions sidebar)
   ![Install popup for recommended extensions](/images/install-popup.png)
   or you can do it manually like so:
 4. Open the command pallete (`cmd`/`ctrl` + `shift` + `p`, then `Preferences: Open User Settings (JSON)`), and type 'Extensions: Show Recommended Extensions' and click the small "cloud with down arrow" / install icon, like so:
